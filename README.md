@@ -1,5 +1,5 @@
 # CodSoft
-Tas-1 Login Page
+Task-1 Login Page
 Created a UI/UX Login Page using Figma
 By using Figma, we can drag and drop all the necessary functions.
 This login page is secure,easy to use,useful,personalized and error to free.
