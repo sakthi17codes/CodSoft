@@ -46,4 +46,5 @@ I added certain features like
 ✴Every page has a back button to previous pages.
 Link to Figma File: https://www.figma.com/file/S2iCHaZMhGzkLYcHFuyVW3/E-Commerce?type=design&node-id=0%3A1&mode=design&t=LMNRq27dP3aUNOHF-1
 
+Overall linked in link:https://www.linkedin.com/posts/sivasakthi-sivakumar-84a271227_codsoft-codsoftinternship-codsoftexperience-activity-7129882959985197056-WZ9A?utm_source=share&utm_medium=member_ios
 
